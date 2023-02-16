@@ -1,5 +1,4 @@
 #import
-import threading
 from tkinter import *
 #vars
 calc_operator = ""
